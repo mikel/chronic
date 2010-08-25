@@ -1,4 +1,4 @@
-SPEC = Gem::Specification.new do |s|
+Gem::Specification.new do |s|
   s.name = 'chronic'
   s.version = '0.3.0'
   s.author = 'Tom Preston-Werner'
